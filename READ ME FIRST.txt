@@ -1,0 +1,7 @@
+to see admin page 
+email="admin@gmail.com"
+password=123
+*************************************************
+to see user page
+email="salmatef@gmail.com"
+password=123
