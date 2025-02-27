@@ -1,3 +1,33 @@
+# 🐦 Native Twitter Blog - Full-Stack Twitter Clone
+
+🚀 **A full-stack Twitter clone with an admin dashboard for managing posts and users.**
+
+
+## 🔥 Features
+- ✅ **User Authentication** (Login, Signup, Logout)
+- 📝 **Tweet creation, editing, and deletion**
+- 💬 **Like, comment, and retweet functionality**
+- 📊 **Admin dashboard to manage users and posts**
+- 📱 **Fully responsive UI**
+
+## 🛠️ Technologies Used
+
+### **Frontend:**
+- **HTML & CSS3** - Structure and styling
+- **JavaScript** - Interactivity and dynamic features
+
+### **Backend:**
+- **PHP** - Server-side logic
+- **MySQL (XAMPP)** - Database for storing users and tweets
+- **WebStack** - Backend framework for structure and management
+
+### **Admin Dashboard:**
+- **PHP & MySQL** - User and post management
+- **Custom-built UI**
+
+
+
+
 to see admin page 
 email="admin@gmail.com"
 password=123
@@ -5,3 +35,5 @@ password=123
 to see user page
 email="salmatef@gmail.com"
 password=123
+
+
